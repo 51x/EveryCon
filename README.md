@@ -3,16 +3,18 @@ Description
 =======
 It is possible to visually connect anything to anything or anyone to anyone. This project is intended to create a simple interface for that.
 
-Pre-Alpha version, 0.1
+The connection core could be a simple point, continuing with two, three..etc. With four there is possibility for 3D already.
+
+Pre-Alpha version, 0.2
 
 
-Specs v0.1
+Specs v0.2
 =======
 
 Target specifications for client side code
   - HTML5
-  - CSS 
-  - SVG 
+  - CSS
+  - Canvas or SVG (avoid if possible)
   - JavaScript (avoid if possible)
 
 Target specifications for server side code / db
