@@ -5,19 +5,19 @@ It is possible to visually connect anything to anything or anyone to anyone. Thi
 
 The connection core could be a simple point, continuing with two, three..etc. With four there is possibility for 3D already.
 
-Pre-Alpha version, 0.2
+Pre-Alpha version, 0.21
 
 
-Specs v0.2
+Specs v0.21
 =======
 
 Target specifications for client side code
   - HTML5
   - CSS
-  - Canvas or SVG (avoid if possible)
+  - Canvas
   - JavaScript (avoid if possible)
 
-Target specifications for server side code / db
+Target specifications for test server side code / db
   - Python
   - Flask
   - sqlite3
@@ -31,7 +31,7 @@ Notes and to do
       content can be text (yet)
       connected is a list of topics connected, with distance, eg. running -> "sport", 1, "health", 2, "running shoes", 3
   2. Split the database code into the Flask calls
-  3. Make it visual with SVGs and integrate the calls through SVGs
+  3. Make it visual with canvas and integrate the calls through them
   4. Make sure all input is limited to minimum needed and recheck everything.
 
 
