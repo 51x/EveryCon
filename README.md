@@ -35,3 +35,7 @@ Notes and to do
   4. Make sure all input is limited to minimum needed and recheck everything.
 
 
+Ideas for use
+=======
+  - Artificial intelligence
+  - Intelligence software, running on it's own
