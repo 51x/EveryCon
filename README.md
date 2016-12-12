@@ -5,17 +5,16 @@ It is possible to visually connect anything to anything or anyone to anyone. Thi
 
 The connection core could be a simple point, continuing with two, three..etc. With four there is possibility for 3D already.
 
-Pre-Alpha version, 0.24
+Pre-Alpha version, 0.27
 
 
-Specs v0.21
+Specs v0.22
 =======
 
 Target specifications for client side code
   - HTML5
   - CSS
-  - Canvas
-  - JavaScript (avoid if possible)
+  - JavaScript, canvas maybe (but avoid if possible)
 
 Target specifications for test server side code / db
   - Python
@@ -48,3 +47,4 @@ Ideas for use
   - Life organizing generally
   - Artificial intelligence
   - Intelligence software, running on it's own
+  - Anything.
