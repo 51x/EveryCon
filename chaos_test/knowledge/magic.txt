@@ -1,0 +1,7 @@
+~conncets~ "magic" "paranormal magic" "stage magic" "illusion" "ritual" "religion"
+
+~content~
+This is a test page, but here are some quotes about magic.
+
+"The only Truth is through Magic."
+"Root is a state of mind."
