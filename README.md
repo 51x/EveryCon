@@ -48,3 +48,4 @@ Ideas for use
   - Artificial intelligence
   - Intelligence software, running on it's own
   - Anything.
+  - Got other name ideas too: treex, vLife
