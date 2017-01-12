@@ -1,4 +1,4 @@
-~conncets~ "esoteric" "occult" "philosophy" "magic" 
+~conncets~ esoteric > occult > philosophy > magic
 
 ~content~
 This is a test page, but here are some quotes about the lhp.
