@@ -1,0 +1,3 @@
+#compdef v
+
+_arguments "1: :( $(ls ~/.econ/v3das/ ) )"
