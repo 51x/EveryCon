@@ -40,12 +40,17 @@ Notes and to do
   2. Split the database code into the Flask calls
   3. Make it visual with canvas and integrate the calls through them
   4. Make sure all input is limited to minimum needed and recheck everything.
+  
+  What abount including separation and encryption? Could be FDE using luks, then GPG for separation which is only unlocked when user request specific part OR javascript crypto which would make both work.
 
 
 Ideas for use
 =======
-  - Life organizing generally
+  - I want to store everything.
+  - Life organizing generally, including anything like private/work/public
+  - Secure/encrypted separation for all apects of life/media contents/etc
+  - Could work with Augmenter Reality (AR), on a similar ways as browsers
   - Artificial intelligence
-  - Intelligence software, running on it's own
+  - Intelligence software, running on it's own / set question, go on enumeration, always show current status, no final answer /
   - Anything.
   - Got other name ideas too: treex, vLife
