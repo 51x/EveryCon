@@ -5,21 +5,26 @@ It is possible to visually connect anything to anything or anyone to anyone. Thi
 
 The connection core could be a simple point, continuing with two, three..etc. With four there is possibility for 3D already.
 
-Pre-Alpha version, 0.27
+Pre-Alpha version, 0.28
 
 
-Specs v0.22
+Specs v0.23
 =======
 
-Target specifications for client side code
+Target specifications for alpha server side code
+  - zsh
+  - txt bd
+  - possibility to store files
+
+Target specifications for client side web code
   - HTML5
   - CSS
   - JavaScript, canvas maybe (but avoid if possible)
 
-Target specifications for test server side code / db
+Target specifications for web server side code / db
   - Python
   - Flask
-  - sqlite3
+  - sqlite3 / only for cache
 
 
 Notes and to do
@@ -53,4 +58,4 @@ Ideas for use
   - Artificial intelligence
   - Intelligence software, running on it's own / set question, go on enumeration, always show current status, no final answer /
   - Anything.
-  - Got other name ideas too: treex, vLife
+  - Got other name ideas too: treex, vLife, v3das
