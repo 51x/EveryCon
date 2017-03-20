@@ -5,15 +5,15 @@ It is possible to visually connect anything to anything or anyone to anyone. Thi
 
 The connection core could be a simple point, continuing with two, three..etc. With four there is possibility for 3D already.
 
-Pre-Alpha version, 0.28
+Pre-Alpha version, 0.29
 
 
-Specs v0.23
+Specs v0.24
 =======
 
 Target specifications for alpha server side code
-  - zsh
-  - txt bd
+  - zsh or limited http
+  - txt bd or html
   - possibility to store files
 
 Target specifications for client side web code
