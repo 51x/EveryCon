@@ -5,31 +5,31 @@ It is possible to visually connect anything to anything or anyone to anyone. Thi
 
 The connection core could be a simple point, continuing with two, three..etc. With four there is possibility for 3D already.
 
-Pre-Alpha version, 0.29
+Pre-Alpha version, 0.30
 
 
-Specs v0.24
+Specs v0.30
 =======
 
-Target specifications for alpha server side code
-  - zsh or limited http
-  - txt bd or html
-  - possibility to store files
+Target specifications for beta server side code
+  - folder structure as db with specific files
+  - flask for logic/web/upload/etc.
+  - nginx for static content
+  - maybe nodejs for websocket and auto polling
+
+Interfaces
+  - HTTP(S) / HTML5+CSS+JS(+websocket?)
+  - zsh
 
 Target specifications for client side web code
   - HTML5
   - CSS
   - JavaScript, canvas maybe (but avoid if possible)
 
-Target specifications for web server side code / db
-  - Python
-  - Flask
-  - sqlite3 / only for cache
-
-
 Notes and to do
 =======
 
+- Interesting integration would be ZeroBin and EtherPad-Lite
 - Web3 / New HTML ideas
 - Linked: How Everything is Connected to Everything Else and What....
 - "Semantic web technology" - Connecting different things, descriptions from it
@@ -37,20 +37,12 @@ Notes and to do
 - OWL programming
 - barabasi.com resources / free publications, downloads, etc
 
-  1. Create database schema and python code for it:  id, title, content, connected
-      id is uniq and identifies entries
-      title can be text, max 128 (256?) characters
-      content can be text (yet)
-      connected is a list of topics connected, with distance, eg. running -> "sport", 1, "health", 2, "running shoes", 3
-  2. Split the database code into the Flask calls
-  3. Make it visual with canvas and integrate the calls through them
-  4. Make sure all input is limited to minimum needed and recheck everything.
-  
-  What abount including separation and encryption? Could be FDE using luks, then GPG for separation which is only unlocked when user request specific part OR javascript crypto which would make both work.
+The project could be placed on a "usb computer", then start automatically. Limiting requests could protect info stealing!
 
 
 Ideas for use
 =======
+  - How to live well?
   - I want to store everything.
   - Life organizing generally, including anything like private/work/public
   - Secure/encrypted separation for all apects of life/media contents/etc
