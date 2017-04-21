@@ -8,11 +8,18 @@
           bkLib.onDomLoaded(function() { nicEditors.allTextAreas() });
     </script>
 
-    <form action="test.php" enctype="multipart/form-data" method="post">
-        <textarea name="v3das_content" style="width: 100%;">
+    <form action="http://127.0.0.1:8080/p" enctype="multipart/form-data" method="post">
+        <textarea name="v3das_content" style="width: 100%;">teszt<i>a</i>
         </textarea>
 
-        <input type="submit" name="submit" value="Send" onclick="nicEditors.findEditor('v3das_content').saveContent();">
+        <input type="submit" name="submit" value="Save" onclick="nicEditors.findEditor('v3das_content').saveContent();">
     </form>
 
+<!--    <script type="text/javascript">
+    window.onload = function() {
+       document.forms["v3das_content"].submit();
+    }
+    </script> -->
+
 </body>
+</html>
