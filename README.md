@@ -5,26 +5,24 @@ It is possible to visually connect anything to anything or anyone to anyone. Thi
 
 The connection core could be a simple point, continuing with two, three..etc. With four there is possibility for 3D already.
 
-Pre-Alpha version, 0.31
+Pre-Alpha version, 0.32
 
 
-Specs v0.31
+Specs v0.32
 =======
 
 Target specifications for beta server side code
-  - folder structure as db with specific files
-  - flask for logic/web/upload/etc.
+  - folder structure and db with the connections
+  - flask for backend and handle DB
   - nginx for static content
-  - nodejs for websockets
 
-Interfaces
-  - HTTP(S) / HTML5+CSS+JS+websocket
-  - zsh
+Interface
+  - HTTP(S) / HTML5+CSS+JS
 
 Target specifications for client side web code
   - HTML5
   - CSS
-  - JavaScript, canvas maybe (but avoid if possible)
+  - Canvas with javascript
 
 Notes, ideas and to do
 =======
@@ -42,11 +40,11 @@ Notes, ideas and to do
 Ideas for use
 =======
   - How to live well?
-  - I want to store everything.
+  - I want to store everything. Storage.
   - Life organizing generally, including anything like private/work/public
   - Secure/encrypted separation for all apects of life/media contents/etc
   - Could work with Augmenter Reality (AR), on a similar ways as browsers
   - Artificial intelligence
   - Intelligence software, running on it's own / set question, go on enumeration, always show current status, no final answer
   - Anything.
-  - Got other name ideas too: treex, vLife, v3das
+  - Got other name ideas too: treex, vLife, v3das, vKon, weeKon, v3d
